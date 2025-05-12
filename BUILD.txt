@@ -1,3 +1,5 @@
 # Enter the following command in the terminal to build the program, please ensure that your Icon.ico file exists.
 
-pyinstaller --name PasteAssistant_v.2.0 --icon=Icon.ico --onefile --windowed main.py
+# Run first: pip install pyinstaller
+
+pyinstaller --name PasteAssistant_v2 --icon=Icon.ico --onefile --windowed main.py
