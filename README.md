@@ -1,4 +1,4 @@
-# PasteAssistant_v2.[250512]
+# PasteNinja_v2.[250512] 隐键客v2 - 抗检测粘贴工具
 
 ## 1. 使用方法
 
